@@ -2,6 +2,8 @@
 
 ![IsakTheHacker's github stats](https://github-readme-stats.vercel.app/api?username=IsakTheHacker&count_private=true&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakTheHacker&layout=compact)
+
 <!--
 **IsakTheHacker/IsakTheHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
