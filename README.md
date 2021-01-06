@@ -1,8 +1,12 @@
 ### Hi there, my name is Isak!
 
-![IsakTheHacker's github stats](https://github-readme-stats.vercel.app/api?username=IsakTheHacker&count_private=true&show_icons=true)
+![IsakTheHacker's github stats](
+https://github-readme-stats.vercel.app/api?username=IsakTheHacker&count_private=true&show_icons=true&theme=merko&custom_title=My%20stats
+)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakTheHacker&layout=compact)
+![Top Languages](
+https://github-readme-stats.vercel.app/api/top-langs/?username=IsakTheHacker&layout=compact&theme=merko&custom_title=My%20most%20used%20languages
+)
 
 <!--
 **IsakTheHacker/IsakTheHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
