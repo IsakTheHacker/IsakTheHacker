@@ -1,4 +1,4 @@
-### Hi there, my name is Isak!
+## Hi there, my name is Isak!
 
 - 🔭 I’m currently working on [Panda Project](https://github.com/IsakTheHacker/Panda-project)
 - 🌱 I’m currently learning C++ and [Panda3D](https://www.panda3d.org)
