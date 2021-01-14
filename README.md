@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on [Panda Project](https://github.com/IsakTheHacker/Panda-project)
 - 🌱 I’m currently learning C++ and [Panda3D](https://www.panda3d.org)
-- 💬 Ask me about everything! 😄
+- 💬 Ask me about everything!
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love Zelda games! 🎮
 
 ![IsakTheHacker's github stats](
