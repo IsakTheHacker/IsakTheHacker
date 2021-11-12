@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Panda Project](https://github.com/IsakTheHacker/Panda-project), [AT Audio Player](https://github.com/IsakTheHacker/AT-Audio-Player) and [GamerBot2.0](https://github.com/stamdiscord/GamerBot2.0)
 - 🌱 I’m currently learning C++ and [Panda3D](https://www.panda3d.org)
-- 💬 Ask me about everything!
+- 💬 Ask me about anything!
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love Zelda games! 🎮
 
