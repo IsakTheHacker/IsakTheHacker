@@ -13,6 +13,8 @@ https://github-readme-stats.vercel.app/api?username=IsakTheHacker&count_private=
 https://github-readme-stats.vercel.app/api/top-langs/?username=IsakTheHacker&layout=compact&theme=merko&custom_title=My%20most%20used%20languages&hide_border=true
 )
 
+![Profile views](https://komarev.com/ghpvc/?username=IsakTheHacker)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
